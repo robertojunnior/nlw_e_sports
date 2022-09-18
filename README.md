@@ -1,7 +1,13 @@
 # nlw_e_sports
 Project carried out at Rocketseat nlw e-sports week with Mayk Brito.
 
-click on the image to open in your browser!
+##  😎 Technologies
+
+- HTML
+- CSS
+- Git and GitHub
+
+Click on the image to open in your browser!
 
 <a target="_blank" href="https://robertojunnior.github.io/nlw_e_sports/"><img src="https://github.com/robertojunnior/nlw_e_sports/blob/main/assets/nlw-esports-capture.png?raw=true" alt="imagem do projeto nlw e-sports"></a>
 
