@@ -1,17 +1,62 @@
-# nlw_e_sports
-Project carried out at Rocketseat nlw e-sports week with Mayk Brito.
 
-##  😎 Technologies
+<h1 align="center"> NLW e-Sports </h1>
 
-- HTML
-- CSS
-- Git and GitHub
+<p align="center">
+Projeto realizado com a participação na semana NLW e-Sports <a href="https://www.rocketseat.com.br/">"Rocketseat"</a> com o instrutor Mayk Brito! <br/>
+</p>
 
-Click on the image to open in your browser!
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-<a href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank"><img src="assets/mockup-entrega.png" alt="imagem do projeto nlw e-sports"></a>
 
-If anyone can use the "animated edge" code in this project, just access my repository https://github.com/robertojunnior/Html_Css_JavaScript/tree/main/Borda_Animada, letting me know that you would like to learn.
-Any questions, just contact me in one of my contacts.
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-Bye.
+<br>
+
+  <div align="center">
+    <a href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank"><img src="assets/mockup-entrega.png" alt="imagem do projeto nlw e-sports"></a>
+  </div>
+
+<br>
+<br>
+<br>
+
+
+## 🚀 Tecnologias
+
+Esse projeto está sendo desenvolvido com as seguintes tecnologias:
+
+<li> HTML
+<li> CSS
+<li> GitHub
+
+## 💻 Projeto
+
+Dentro dos assuntos do vídeo, o instrutor Mayk Brito fala também de temas como Responsividade, HTML semântico, Flexbox e Grid.
+
+[Visite o projeto online](https://robertojunnior.github.io/nlw_e_sports/)🧑‍🚀
+
+## 🔖 Layout
+
+Todo o layout foi criado pela Rocktseat e demonstrado pelo instrutor Mayk Brito.
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Roberto Junior 😁:wave: 
+<br>🧑‍🚀[Inscreva-se no canal do YouTube da ROCKETSEAT!](https://www.youtube.com/rocketseat)
+
+    
+<h4> Obrigado por visitar meu Git e se chegou até aqui dê um "follow" que retribuo, quem sabe não podemos colaborar em algum projeto juntos? 
+<br>
+<br>To the next! 🚀🧑‍🚀👽😁🖖.
